@@ -1,6 +1,8 @@
-## Hi, I'm the CS student.
-- Interest: Computer Security
-- Still learning: Crytography, Network Security, Reverse Engineering
+<h1 align="center">Hi, I'm yuanyuan (YUANWRLD)</h1>
+
+- Currently Leanring: **Crytography, Network Security and Reverse Engineering**
+- A NCKU Student who is majoring in CS
+- Interests: watch anime, read Chinese/Korean manhwa
 
 <h2 align="left">Languages:</h2>
 <p align="left"> 
